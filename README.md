@@ -31,3 +31,7 @@ Subrayado 2
 - <a href="http://google.com"> Esto es un link en html</a>
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un links al index](index.html)
+
+# Imagenes
+![Descripcion de la imagen -> url donde se encuentra la imagen](https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/qu%C3%A9-es-github-1.png)
+
