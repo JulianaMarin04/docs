@@ -102,3 +102,10 @@ Esto es otro texto
 Un texto mas
 
 ___
+
+# Saltos de linea
+Esto es un texto.
+
+Esto es otro texto.
+
+Un texto mas.
