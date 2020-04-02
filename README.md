@@ -90,3 +90,15 @@ Esto es un texto que hace referencia a la realizacion de una cita:
 > Esto es una sita, para salir de ella dos veces enter 
 
 Hola mundo esto ya no es una cita
+
+# Lineas Horizontales - Lineas divisoras
+Esto es un texto
+
+---
+Esto es otro texto
+
+***
+
+Un texto mas
+
+___
