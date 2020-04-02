@@ -85,4 +85,8 @@ export  $initHighlight;
 | Pepito | Perez | 458568 |
 
 
+# Citas 
+Esto es un texto que hace referencia a la realizacion de una cita:
+> Esto es una sita, para salir de ella dos veces enter 
 
+Hola mundo esto ya no es una cita
